@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ZackTanCZ
-- 👀 I’m aspiring data enthusiast interested in all aspect of data analystics, ranging from the myriad of Machine Learning Algorithms and Statistical Methods to the constantly evolving technologies in the Analytics landscape. 
-- 🌱 I’m currently learning Data Vizualisation tools (PowerBI), SQL Queries and any technology related to analytics. Also developing an interest in MS Fabric
-- 💞️ I’m looking to collaborate on projects which involve the use of analytics and Data Engineering.
+- 👀 I’m aspiring data enthusiast interested in all aspect of data analystics, ranging from the myriad of Machine Learning Algorithms and Statistical Methods to the constantly evolving technologies in the Analytics landscape. I have a strong interest in the [AI Apprenticeship Program(AIAP)](https://aiap.sg/apprenticeship/) by AISG to develop myself as an ML engineer.
+- 🌱 I’m currently learning Data Vizualisation tools (PowerBI), SQL Queries, Machine Learning techniques and MLOps best practices.
+- - 💞️ I’m looking to collaborate on projects which involve the use of Analytics, Data Engineering and Machine Learning Ops (MLOps)
 - 📫 How to reach me - LinkedIn, Telegram
 - 😄 Pronouns: He, Him?? I'm just an average human being!
 - ⚡ Fun fact: Into Gymming to ensure that I'm kept in the best physical condition. Into reading to increase my knowledge and be a better person! Pretty much foodie too!
